@@ -1,0 +1,23 @@
+High level component
+
+#ID claim
+	Framework : Laravel
+	Libraries : Face recognition api
+
+#Security
+	Framework : Laravel
+	Libraries : 1) No Capcha
+		    2) Laravel User Verification
+		    3) Spatie
+
+#Web Search
+	Framework : Laravel
+	Libraries : Laravel Meta Manager
+
+#Fetch Function
+	Framework : Laravel
+	Libraries : Call Api
+
+
+	
+ 
